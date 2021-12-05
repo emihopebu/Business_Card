@@ -59,3 +59,32 @@ body {
   align-items: center;
   margin: 20px 0;
 }
+.person {
+  background-color: #e6ad1c;
+  padding: 5px 0 5px 30px;
+  margin: 30px 0;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+.right-content i {
+  width: 35px;
+  height: 35px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e6ad1c;
+  margin-right: 20px;
+}
+.person h4 {
+  text-transform: uppercase;
+}
+.phone {
+  padding-left: 30px;
+}
+.email {
+  padding-left: 20px;
+}
+.address {
+  padding-left: 10px;
+}
